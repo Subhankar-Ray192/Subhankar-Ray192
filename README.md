@@ -3,7 +3,6 @@
 # Hi there 👋
 ```
 I am Subhankar Ray,
-Student at St. Thomas' College of Engineering & Technology,
 Software Developer & Designer
 ```
 
