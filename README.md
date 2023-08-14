@@ -8,7 +8,6 @@ Software Developer & Designer
 
 ## Skills
 ### Languages
-<img align="left" src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/blob/main/jscipt.svg" alt="Subhankar Ray | JavaScript" width="21px"/> 
 
 ### Frameworks
 
