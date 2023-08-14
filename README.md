@@ -8,6 +8,8 @@ Software Developer & Designer
 
 ## Skills
 ### Languages
+<img align="left" src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/blob/master/Images/python.svg" alt="Subhankar Ray | Python" width="21px"/> 
+
 ### Frameworks
 
 ## Contact
