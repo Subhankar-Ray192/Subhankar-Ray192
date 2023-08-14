@@ -1,5 +1,3 @@
-!(https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4f3e1fad-c3b5-4d03-9bc0-f205499def67)![banner](https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/2b498731-9ce4-413c-9c66-7c9113a361e3)
-
 # Hi there 👋
 ```
 I am Subhankar Ray,
