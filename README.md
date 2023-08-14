@@ -8,7 +8,6 @@ Software Developer & Designer
 
 ## Skills
 ### Languages
-
 ### Frameworks
 
 ## Contact
