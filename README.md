@@ -11,7 +11,7 @@ Software Developer & Designer
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/fea30b7a-7419-498b-b7b8-16e78698d1bf" width=40 height=40 />
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/23735d58-3df3-42c1-8e65-4b61525e7c42" width=40 height=40 />
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/d5453330-635e-4909-881f-3512391cb659" width=60 height=40 />
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4cdeaf8f-9029-4607-a18c-9f127786df67" width=120 height=40 />
+<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4cdeaf8f-9029-4607-a18c-9f127786df67" width=110 height=40 />
 
 
 ### Frameworks
