@@ -8,7 +8,7 @@ Software Developer & Designer
 
 ## Skills
 ### Languages
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/cefcee8d-08c9-40a7-84be-89deeeee61b8" width=40 height=40>
+<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/d37f9e16-1060-4b01-be8b-00799f7e17c9" width=40 height=40 />
 
 ### Frameworks
 
