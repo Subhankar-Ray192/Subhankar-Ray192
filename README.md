@@ -12,6 +12,7 @@ Software Developer & Designer
 ### Frameworks
 
 ## Contact
+![linkedin](https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4c819b41-8659-41a6-8989-460404b178bb)
 
 <!--
 **Subhankar-Ray192/Subhankar-Ray192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
