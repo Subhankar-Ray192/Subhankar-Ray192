@@ -20,11 +20,11 @@ Software Developer & Designer
 
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/529d86d9-d5f4-4151-82b7-54d04ad5be75" width=40 height=40 />
 
+<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/21d55105-cc9c-4f13-9743-46904c492698" width=40 height=40 />
+
+
 ## Tools
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/f76fc310-4c09-4b57-863d-04eb189c33a7" width=60 height=40 />
-
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/22718758-ba85-4b7d-a29f-43a0b283985c" width=50 height=40 />
-
 
 ## Contact
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4c819b41-8659-41a6-8989-460404b178bb" width=40 height=40 />
