@@ -13,7 +13,7 @@ Software Developer & Designer
 
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/d5453330-635e-4909-881f-3512391cb659" width=60 height=40 />
 
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/ab89cea1-4658-4ccd-8cf5-deb34529dcf8" width=40 height=50 />
+<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/ab89cea1-4658-4ccd-8cf5-deb34529dcf8" width=40 height=70 />
 
 
 ### Frameworks
