@@ -9,7 +9,8 @@ Software Developer & Designer
 ## Skills
 ### Languages
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/2286e1e7-b334-472f-b6e1-122f070279ab" width=40 height=40 />
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/23735d58-3df3-42c1-8e65-4b61525e7c42" width=40 height=40 />
+<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/662c939d-58d8-4760-8691-9e232a1be729" width=40 height=40 />
+
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/d5453330-635e-4909-881f-3512391cb659" width=60 height=40 />
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4cdeaf8f-9029-4607-a18c-9f127786df67" width=100 height=40 />
 
