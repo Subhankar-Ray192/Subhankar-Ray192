@@ -22,7 +22,7 @@ Software Developer & Designer
 
 
 ## Library
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/bdb1602b-82aa-43fc-b800-d64b0386f306" width=105 height=40 />
+<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/bdb1602b-82aa-43fc-b800-d64b0386f306" width=110 height=40 />
 
 
 ## Tools
