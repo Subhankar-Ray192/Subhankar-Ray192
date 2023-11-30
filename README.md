@@ -27,7 +27,7 @@ Software Developer & Designer
 
 ## Contact
 <a href="https://www.linkedin.com/in/subhankar-ray-738024233" target="blank"><img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/4c819b41-8659-41a6-8989-460404b178bb" width=40 height=40 /></a>
-<img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/c9212feb-4796-4fe1-b2e4-aaf61c2461a6" width=40 height=40>
+<a href="" target="blank"><img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/cb9054cf-b324-47b8-ad31-8084e132fb88" width=40 height=40/></a>
 
 
 <!--
