@@ -23,6 +23,8 @@ Software Developer & Designer
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/8a371c2a-4ec4-4536-8615-3539ac800432" width=30 height=40 />
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/1865ae56-4b41-45de-91ba-738a62a0da1d" width=40 height=40/>
 
+## Coding Platforms
+<a href="" target="blank"><img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/b8ca24fb-3dc6-45b0-8634-7d4d4d81f519" width=40 height=40/></a>
 
 
 ## Contact
