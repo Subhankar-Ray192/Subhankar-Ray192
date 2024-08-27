@@ -3,7 +3,7 @@
 # Hi there 👋
 ```
 I am Subhankar Ray,
-Software Developer & Designer
+Web and Android Developer | LeetCode geek | Data Engineer | ML | AI | NLP
 ```
 
 ## Skills
