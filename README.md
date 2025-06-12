@@ -4,9 +4,9 @@
 ```
 I am Subhankar Ray,
 Software Developer & Designer
-
-[Visit My Website](https://subray-portfolio.web.app)
 ```
+
+[Visit My Website 🌐](https://subray-portfolio.web.app/)
 
 ## Skills
 ### Languages
