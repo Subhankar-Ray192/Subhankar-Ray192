@@ -6,8 +6,6 @@ I am Subhankar Ray,
 Software Developer & Designer
 ```
 
-[Visit My Website 🌐](https://subray-portfolio.web.app/)
-
 ## Skills
 ### Languages
 <img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/2286e1e7-b334-472f-b6e1-122f070279ab" width=40 height=40 />
@@ -32,6 +30,7 @@ Software Developer & Designer
 <a herf="https://neooracdev.slack.com" target="blank"><img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/35c481cf-0747-4c42-92b4-05f38866529f" width=40 height=40/></a>
 <a href="https://www.hackerrank.com/profile/subhankarraypp32" target="blank"><img src="https://github.com/Subhankar-Ray192/Subhankar-Ray192/assets/91007834/b8ca24fb-3dc6-45b0-8634-7d4d4d81f519" width=40 height=40/></a>
 
+[![🌐Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=firefox)]([https://yourdomain.com](https://subray-portfolio.web.app/))
 
 <!--
 **Subhankar-Ray192/Subhankar-Ray192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
